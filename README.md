@@ -27,5 +27,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 6. Now you can go to the site https://sleepy-savannah-87413.herokuapp.com/ on your browser and use it.
 
 ### 
--Here is a short video showing the Apps use.
--
+-Screenshot
+- screenShot.png
